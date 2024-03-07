@@ -2,7 +2,9 @@
 <h3 align="center">An enthusiastic computer science student with a passion for all things tech-related</h3>
 <p></p>
 
-![pic](https://github.com/CatalinGiga/CatalinGiga/assets/146859638/542ce546-ae4f-4f56-a4a6-6334c13884cc)
+<p align="center">
+  <img src="pic.png" alt="Description of the image">
+</p>
 
 #
 
