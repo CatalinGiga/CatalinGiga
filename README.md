@@ -18,7 +18,7 @@
 
 - 📄 Know about my experiences [ceva](ceva)
 
-- ⚡ Fun fact **I love to take photos!**
+- ⚡ Fun fact: **I love to take photos!**
 
 #
 
