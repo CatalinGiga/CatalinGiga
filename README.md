@@ -10,7 +10,7 @@
 
 <img align="right" width=300px alt="Intro" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjdjYmF2b2Y2bWNhZDB5YzhubWY3a2F0bWNqdXJydnd2eTcyMzA2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif" />
 
-- 👨‍💻 All of my projects are available at [ceva](ceva)
+- 👨‍💻 All of my projects are available at [ceva](catalingiga.com)
 
 - 💬 Ask me about **anything you want!**
 
