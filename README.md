@@ -16,7 +16,7 @@
 
 - 📫 You can contact me here: **catalin.giga@gmail.com**
 
-- 📄 Know about my experiences: [CV](CV - Gigă Ionuț-Cătălin.pdf)
+- 📄 Know about my experiences: [CV](CV.pdf)
 
 - ⚡ Fun fact: **I love to take photos!**
 
