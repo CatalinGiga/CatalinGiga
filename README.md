@@ -3,7 +3,7 @@
 <p></p>
 
 <p align="center">
-  <img src="pic.png" alt="Description of the image">
+  <img width=400px src="pic.png" alt="Description of the image">
 </p>
 
 #
